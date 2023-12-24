@@ -7,7 +7,7 @@
 
 [![Damjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sorae1118&include_all_commits=true&theme=radical&hide_border=true&count_private=true)](https://github.com/Sorae1118/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sorae1118&layout=compact)](https://github.com/Sorae118/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sorae1118&layout=compact)](https://github.com/Sorae118/github-readme-stats) -->
 <br>
 
 ## 📞 Contact 📞
